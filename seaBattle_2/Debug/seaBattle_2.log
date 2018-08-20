@@ -1,0 +1,9 @@
+﻿  Header.cpp
+c:\users\yrovo\source\repos\seabattle_2\seabattle_2\header.cpp(507): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\yrovo\source\repos\seabattle_2\seabattle_2\header.cpp(513): warning C4101: 'k': unreferenced local variable
+c:\users\yrovo\source\repos\seabattle_2\seabattle_2\header.cpp(1003): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Compiling...
+  seaBattle_2.cpp
+  Generating Code...
+  seaBattle_2.vcxproj -> C:\Users\yrovo\source\repos\seaBattle_2\Debug\seaBattle_2.exe
